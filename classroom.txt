@@ -1,3 +1,4 @@
 Maximum students allowed: 30
 opening time : 9:00 AM
 location: room 101
+closing time : 5:00 PM
